@@ -1,0 +1,3 @@
+/Users/wanglijuan/Documents/Unreal Projects/DerryScaryProject/Source/DerryScaryProject/DerryScaryProject.Build.cs
+/Users/wanglijuan/Documents/Unreal Projects/DerryScaryProject/Source/DerryScaryProject.Target.cs
+/Users/wanglijuan/Documents/Unreal Projects/DerryScaryProject/Source/DerryScaryProjectEditor.Target.cs
